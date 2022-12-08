@@ -1,0 +1,23 @@
+{
+    "name": "com.yurowm.integrations.unityiap.Editor",
+    "references": [
+        "GUID:0ff2bb953542afb44bee217c962b09d7",
+        "GUID:9f903796c5a4cc349bc3d614722bdfaa",
+        "GUID:b67c650a00ca05c47a2318c5f92ef4fe",
+        "GUID:e25a61468ff30f44fad56a6b40062363",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:e2caab14e3eca674db40f775bd464567",
+        "GUID:3843c2cf0f5e501448fb96e141b70d6f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,39 @@
+ {
+	"type":"YMatchThree.Editor.LevelEditorFolders",
+	"collection":{
+		{
+			"type":"YMatchThree.Editor.LevelEditorFolders+World",
+			"name":"NightCity",
+			"folders":{
+				"Tutorial",
+				"Toffees",
+				"Cookie",
+				"Jelly",
+				"Mushrooms",
+				"Ladybirds",
+				"Virus"
+			}
+		},
+		{
+			"type":"YMatchThree.Editor.LevelEditorFolders+World",
+			"name":"TestLevels",
+			"folders":{
+				
+			}
+		},
+		{
+			"type":"YMatchThree.Editor.LevelEditorFolders+World",
+			"name":"Untitled",
+			"folders":{
+				
+			}
+		},
+		{
+			"type":"YMatchThree.Editor.LevelEditorFolders+World",
+			"name":"Temp3",
+			"folders":{
+				
+			}
+		}
+	}
+}

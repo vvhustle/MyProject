@@ -1,0 +1,17 @@
+{
+    "name": "com.mathparser.org.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "MathParser.org-mXparser.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "MXPARSER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

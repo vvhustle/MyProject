@@ -1,0 +1,545 @@
+ {
+	"type":"Yurowm.Serialization.Storage<Yurowm.Help.TipEntry>",
+	"items":{
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"dashboard.logo",
+			"text":"The dashboard logo is just an icon that you provide for this project. Change the app icon and the dashboard logo will be changed too."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"dashboard.maximize",
+			"text":"The toggel that enables fullscreen mode for the dashboard."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"dashboard.menu",
+			"text":"Left menu visibility toggle. Click it to hide/show editors list."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"dashboard.tips",
+			"text":"The toggle that enables tips mode for the dashboard. This mode allows to show the text that you are reading now."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.base.body",
+			"text":"The name of the item prefab. All prefabs from this list are located in the Assets section of the Dashboard."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.block.blockingtype",
+			"text":"How chips will interact with the block:
+
+* Obstacle - the block doesn't allow chips to jump over it.
+
+* Hole - the chips will jump over the block until it is not destroyed."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bomb.activation",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bomb.explosion",
+			"text":"Bouncing effect of near chips when the bomb is being exploded."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bomb.overlay",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.bombs",
+			"text":"The list of IDs of the bombs, which will be emitted."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.count",
+			"text":"How many bombs will be emitted per time."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.explosion",
+			"text":"Bouncing effect of near chips when the bomb is emitted on the field."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.id",
+			"text":"Bomb ID. Bombs with this ID will be emitted."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.new",
+			"text":"Click here to add a new bomb ID to this list."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.bombbonus.remove",
+			"text":"Click here to remove this bomb ID from the list."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.chip.color",
+			"text":"This color is used in the Level Layout Editor for changing the chip color of the chip pictogram.
+This color also is used for repainting the Body if it is possible.
+It works only for non-colored chips. If the chip is colored, this parameter will be replaced with a color from the Color Pallete due the gameplay logic."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.chip.destroyingdelay",
+			"text":"A small delay between the item is been hit and it starts the destroying effect. It is measured in seconds."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.chip.miniicon",
+			"text":"Small sprite asset from the Assets section.
+It is used for different kind of mechanics as Level Goals and Extended Chip Generators.
+The sprites has a fixed dimentions: 64x64pix with 100 pixels per unit."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.chip.shortname",
+			"text":"2-3 chars, which are used in the Level Layout Editor to identify the chip type."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.collectiongoal.collectingeffect",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.completebonus.feedback",
+			"text":"Full screen message that will be shown when the bonus start to work."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.destroyable.effect",
+			"text":"The effect that will be emitted when the item will start to being destroyed."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.destroyable.score",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.explosion.force",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.explosion.radius",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.explosionmix.distance",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.explosionmix.explosion",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.fixedsizecolors.count",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.layered.count",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.layered.effect",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.layered.layer",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.layered.score",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.layoutblock.renderer",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.lineexplosion.explosion",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.lineexplosion.sides",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.lineexplosion.waveoffset",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.mix.priority",
+			"text":"When two IMixableChips are mixed, we have conflict of two mix logics. To prevent this conflict, we set Mix Priority.
+
+The chip with lower Mix Priority value will provide the mix logic."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.mixrecipe.a",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.mixrecipe.b",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.mixrecipe.edit",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.mixrecipe.new",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.palette.color",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.palette.new",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.palette.remove",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.physic.land",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lc.physic.speedmax",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"le.colorsettings.palette",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"le.nodes.buildlevel.edit",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.editors",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.gamplay",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.height",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.layers",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.nav.first",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.nav.last",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.nav.list",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.nav.next",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.nav.previous",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.parameters",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.physic",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.run",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.scripts",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.seed",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.title",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"lle.width",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"localization.key",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"localization.localized",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"localization.text",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"localization.value",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"oe.history",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"oe.type",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"serializable.copypaste",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.apply",
+			"text":"Save the changes"
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.data",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.elementflags",
+			"text":"* DefaultElement - just a \"Default\" mark. It is used in some places, for identify which items from this storage will be used by default.
+
+* WorkInProgress - this flag is used for identifing the item as non-completed. It doesn't have any effects, just reminds you that the item is not complete yet.
+
+* DebugOnly - all the items with this flag will be removed in Release builds.
+
+* ReleaseOnly - all the items with this flags will be removed in Development builds."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.filter",
+			"text":"The filter allows to hide some of the storage items based on tags. The tag is little colored labels that are placed on the list elements.
+Use this button to show only those elements with the tags you need.
+
+* Clear - to clear the filter settings. It makes visible all the elements. (It is available only when the filter is active)
+
+* Overlap - to turn on/off the overlap mode. In the overlap mode you will see only those elements that has all the tags, which you selected here. Otherwise you will see only the elements, which has at least one tag from the filter settings. (It is available only when there are at least two differents tags in the list)
+
+And below you can see a list of all active tags. Click on one of them to add or to remove it from the filter."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.id",
+			"text":"The item ID. It is used for linking the items. This parameter can't be changed to prevent breaking the links.
+But you can dublicate this item and set a new ID for the new item."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.items",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.menu",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.raw",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.search",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"storage.type",
+			"text":"The name of the item type. Find this type in the code to research the item logic."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.assets",
+			"text":"Set of the Unity assets, that is used in different places of the dashboard.
+It is just a tool for linking Unity resources with the Yurowm resources."
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.game",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.integrations",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.levelcontent",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.levelmaps",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.levels",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.localization",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.missingreferences",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.offers",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.optimizations",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.pages",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.project",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.reporter",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.rnd",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.screenshots",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.sdsymbols",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.sounds",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.store",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.tips",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.uicolors",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.usefullinks",
+			"text":
+		},
+		{
+			"type":"Yurowm.Help.TipEntry",
+			"ID":"tab.userpath",
+			"text":
+		}
+	}
+}

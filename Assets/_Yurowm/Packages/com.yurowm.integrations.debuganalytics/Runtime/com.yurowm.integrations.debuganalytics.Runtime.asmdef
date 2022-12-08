@@ -1,0 +1,16 @@
+{
+    "name": "com.yurowm.integrations.debuganalytics.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9f903796c5a4cc349bc3d614722bdfaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

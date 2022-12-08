@@ -1,0 +1,17 @@
+{
+    "name": "com.yurowm.integrations.unityads.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9f903796c5a4cc349bc3d614722bdfaa",
+        "GUID:ff6de30450f3748908ff580f6ec64d9a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

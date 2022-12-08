@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b69a3872556e2d4e9ee4f111dc740f2, type: 3}
+  m_Name: Yurowm.ContentManager.AssetManager
+  m_EditorClassIdentifier: 
+  aItems:
+  - item: {fileID: 8299755258457058527, guid: fc4239ffc71daf844a3b9b3e4edc6dcb, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: 4b52efcafc79ad54f940ede318d28f9b, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: 54948452f480a574e91ff69ca7ebb655, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: 12eb2cbc20368c049aa2fbf26da8db84, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: a695e26478e3e8045947aa0b5d7f5540, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: a6dd721b3b1c02e46a30f0d3fbf723e7, type: 3}
+    path: Characters
+  - item: {fileID: 5876137142922699427, guid: 3231346ebeda8874eb99252b9ec6474c, type: 3}
+    path: Effects
+  - item: {fileID: 3092479487307630121, guid: 20f8a194bd1e8b84186e0a06cdce0682, type: 3}
+    path: Effects
+  - item: {fileID: 3092479487307630121, guid: 3e76808fdbf8a9e4db08fa8c84546fe6, type: 3}
+    path: Effects
+  - item: {fileID: 21300000, guid: 428546d10d12ca94fa3131e9544f621c, type: 3}
+    path: Boosters
+  - item: {fileID: 21300000, guid: 7c79680a6fab94b44862151ce7035955, type: 3}
+    path: Boosters
+  - item: {fileID: 21300000, guid: 51f9d89498089574d891e6b87cb62654, type: 3}
+    path: Boosters
+  - item: {fileID: 21300000, guid: d9b73918b5210ba4081fa40b358204de, type: 3}
+    path: Boosters
+  - item: {fileID: 21300000, guid: e3f664c2336ab40428f92d8f46a594a9, type: 3}
+    path: Boosters
+  - item: {fileID: 21300000, guid: 2d679dbfdc66a7047b5e71ced7d022b8, type: 3}
+    path: Boosters
+  - item: {fileID: 8407365784455160498, guid: 0678a3a1c79486d43800ffcf2423f3be, type: 3}
+    path: Features/CandyCanes
+  - item: {fileID: 2126757168582849229, guid: 52afcabb33c244949ba36cb4612b6ebc, type: 3}
+    path: Features/CandyCanes
+  - item: {fileID: 7538729767908288878, guid: 69cbcfc6aee597444bf1a8c6cc0d7cf7, type: 3}
+    path: Features/CandyCanes
+  - item: {fileID: 6881617158898168049, guid: 015ed46391f85df489ef15a39b3a9ba2, type: 3}
+    path: Effects
+  - item: {fileID: 1889180080331461342, guid: ccb8af2d6167af840b344390a806834f, type: 3}
+    path: Chips
+  - item: {fileID: 2764171861876952067, guid: bb48b98b7cf160f429d8304c8042a12d, type: 3}
+    path: Chips
+  - item: {fileID: 8409043241165405553, guid: 22a0f82a80d308048be3d43c27d20713, type: 3}
+    path: Effects
+  - item: {fileID: 3000993992460737854, guid: 66b208ad2962d8546a7daf8c3d3baa8a, type: 3}
+    path: Effects
+  - item: {fileID: 2078494947666079203, guid: 98623181e3c2d0e46aa9e877c0472f45, type: 3}
+    path: ComposedElements
+  - item: {fileID: 2078494947666079203, guid: b7f54feed42a0984ebe4d7e2fd478fb6, type: 3}
+    path: ComposedElements
+  - item: {fileID: 2078494947666079203, guid: ad03f4fca5fa5524795aa1dcd9bfcdde, type: 3}
+    path: ComposedElements
+  - item: {fileID: 4815572976042878642, guid: f8be44a32baaa8947860a16c8f9f7c91, type: 3}
+    path: ComposedElements
+  - item: {fileID: 1930489434724580, guid: d36a799d96a2c064c80b308ed663f8c8, type: 3}
+    path: ComposedElements
+  - item: {fileID: 51052116389119208, guid: c396ade388fe8c2409be0dd70c91d723, type: 3}
+    path: ComposedElements
+  - item: {fileID: 10524141873853824, guid: d9efa845dcff1d14db5121a1b91a7bc1, type: 3}
+    path: ComposedElements
+  - item: {fileID: 1930489434724580, guid: 2ecb92e6670782348a08584944a5957a, type: 3}
+    path: ComposedElements
+  - item: {fileID: 2386100131441707063, guid: 09face72fc94b26428be2ba7ddbe8c4f, type: 3}
+    path: ComposedElements
+  - item: {fileID: 1611181338406831527, guid: fe8d23b1fb83d13498166cac717b7636, type: 3}
+    path: ComposedElements
+  - item: {fileID: 1930489434724580, guid: 95a45377e362c164cb915c8011850d17, type: 3}
+    path: ComposedElements
+  - item: {fileID: 1630374153737982, guid: ef9f97074388ed4489061b967f46bf11, type: 3}
+    path: ComposedElements
+  - item: {fileID: 8433927341104290444, guid: bd8d8e64126837f4b8068bdcc4b5b627, type: 3}
+    path: ComposedElements
+  - item: {fileID: 2326899603550146345, guid: 1c8af8a0ebac6cf4a9146582751308ea, type: 3}
+    path: ComposedElements
+  - item: {fileID: 7366700809021215085, guid: 57e734dcaf9b1b448b0ac6c6f1a1b437, type: 3}
+    path: Blocks
+  - item: {fileID: 6969606168759110689, guid: a6bcc4f9c342b1a4ab31068ffd3e30ff, type: 3}
+    path: Effects
+  - item: {fileID: 8995719375334767447, guid: a0471c568f612904d988c5d9e271c731, type: 3}
+    path: LevelMap/Locations
+  - item: {fileID: 3521023407371489206, guid: 81e941e46d0a4ef458144c931f3dbd34, type: 3}
+    path: SlotModifiers
+  - item: {fileID: 8685657788871066444, guid: a474b5ababa4b4a48bed4cdee3a0dfd9, type: 3}
+    path: Boosters
+  - item: {fileID: 5738198599394929983, guid: 91c97fa91bbf6d940afc3516c9411c29, type: 3}
+    path: SlotModifiers
+  - item: {fileID: 1759019925517196740, guid: cfe911d7d1792384eaf565fb608c7d7c, type: 3}
+    path: SlotModifiers
+  - item: {fileID: 4241150698167586460, guid: b498c624474bdcd41b834cf5bfd34536, type: 3}
+    path: Effects
+  - item: {fileID: 3947383464270165208, guid: 8040099078ac41149a5c72e5b06ae154, type: 3}
+    path: Chips
+  - item: {fileID: 1371608042497202, guid: aa908d84c34f23d44a413704c0079bfc, type: 3}
+    path: SlotRenderers
+  - item: {fileID: 8685657788871066444, guid: 951fbab86c71be94e869719a3e487d16, type: 3}
+    path: Boosters
+  - item: {fileID: 7099773468233891380, guid: da4a16782fe071445b0fa1f06021417b, type: 3}
+    path: Map
+  - item: {fileID: 849065499547813232, guid: 68db563835971904db6d6f679f3952fe, type: 3}
+    path: LevelMap
+  - item: {fileID: 1649565582343528094, guid: 37276dd9b96a96c469d3ba9906f17a61, type: 3}
+    path: Limitations
+  - item: {fileID: 7722448660807964669, guid: 3d24dbd91d089ad478b9cfe7025129a7, type: 3}
+    path: Effects
+  - item: {fileID: 2789423098841782337, guid: fc18617b24ec41841b5220baa40d8a22, type: 3}
+    path: Chips
+  - item: {fileID: 2789423098841782337, guid: b794049babc60e64b83333cb5069ef4e, type: 3}
+    path: Chips
+  - item: {fileID: 5207139543302164133, guid: 428d9c4dd0827984ea4966e3cde183b3, type: 3}
+    path: Effects
+  - item: {fileID: 7350632419351165264, guid: da627267d46448d4bb97eb1177116129, type: 3}
+    path: Boosters
+  - item: {fileID: 5944300414403774996, guid: cb6a76b5cdea24642a5009069b8a9efc, type: 3}
+    path: Boosters
+  - item: {fileID: 5944300414403774996, guid: 23e5874dacd805344a4c0229cdeea092, type: 3}
+    path: Boosters
+  - item: {fileID: 5944300414403774996, guid: 6fabf6a91bf47cf479dbf3b489797be2, type: 3}
+    path: Boosters
+  - item: {fileID: 2010942336676710776, guid: 2aabb52b143449740987258756787f07, type: 3}
+    path: Features/MatchChain
+  - item: {fileID: 8319333367691891153, guid: c5226567b75bbec4b8add773fcafd0cd, type: 3}
+    path: Features/MatchThree
+  - item: {fileID: 21300000, guid: 0e3dc0a9dc1970e4ca72062d9869bf40, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 9802d30a37ddb0e41b54ad5664e88940, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 7affdbc510e8d94478c2f003ff9091a3, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: e156bdc6067a829448d0a234e153c77d, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: b414bb70b3583554e888040b5461bfb8, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 0a86ecf8b6f6240499cab42377a69f34, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 05540f998450a08458e63ee596bc45f1, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 71aea54d0212325419db3d1ccf626ac7, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 6e54506fce08edb41b6a9f9060c5fcca, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: d0c3c5cb3cd9cec439a3ac9733a58327, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 4cdf4dfdfd143a04885df87fd3ffd736, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: a0f56142d1ccbb342b9b369d079a1a8c, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 3ada3c481d7d81e42a2723b17edfeee3, type: 3}
+    path: MiniIcons
+  - item: {fileID: 21300000, guid: 4a25b2f77953de943b548d3b3b5d73c9, type: 3}
+    path: MiniIcons
+  - item: {fileID: 8923736734103614620, guid: 697694e36b7f4a34696bb46705402674, type: 3}
+    path: Chips
+  - item: {fileID: 5789565410715685947, guid: d4fa0a9fa2e77f040b2df8fc55a228ca, type: 3}
+    path: LevelMap/Locations/NightCity
+  - item: {fileID: 5789565410715685947, guid: c6f51a460c3405644a793e85dcaad166, type: 3}
+    path: LevelMap/Locations/NightCity
+  - item: {fileID: 8083526305321584313, guid: 3242ac8f98553cd4398a4bb7e4b12dd6, type: 3}
+    path: Effects
+  - item: {fileID: 21300000, guid: a76c7d73afc7ab5458215fc58c4889d4, type: 3}
+    path: BombOverlay
+  - item: {fileID: 21300000, guid: 7744690848db2664ba2334388757dd9c, type: 3}
+    path: BombOverlay
+  - item: {fileID: 21300000, guid: c145560775664bb498278ee73f939c81, type: 3}
+    path: BombOverlay
+  - item: {fileID: 21300000, guid: 33f1e86d22e120e4e96dce98cf1cae6a, type: 3}
+    path: BombOverlay
+  - item: {fileID: 1889180080331461342, guid: 6d2dcd126dbd90e47b0234d1dad91be9, type: 3}
+    path: Chips
+  - item: {fileID: 2958198069760018410, guid: 6642b12cc5e525f4bbc832aa445a5475, type: 3}
+    path: Effects
+  - item: {fileID: 8299755258457058527, guid: ed8a8ba6cc7e0354a8e7a043997daea7, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: a96638751974c184fb4c04dabc6d5d3a, type: 3}
+    path: Characters
+  - item: {fileID: 7746287583578420089, guid: 646a9342cc75e274c8407a023ab25428, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: fc6b1b609cab98f45b9f80fbed1ff49a, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: b6d8e8201a52cc845998309395174fc7, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: eb14d1d9c77c9144f9ccdb75eada4ff6, type: 3}
+    path: Characters
+  - item: {fileID: 8299755258457058527, guid: 0fba8c32371aa394c974cd8dd201c01f, type: 3}
+    path: Characters
+  - item: {fileID: 4184769993954345353, guid: 9e13b567a86c7954ea89e6fcf03d5c26, type: 3}
+    path: Effects
+  - item: {fileID: 5799077349610264294, guid: 2240a6039271ff74dbb565bc525adbcb, type: 3}
+    path: Boosters
+  - item: {fileID: 2764171861876952067, guid: f7f15b2d876260a42b3fceb69a813897, type: 3}
+    path: Chips
+  - item: {fileID: 1545010546042065938, guid: 572e07776167c7948b2896f67d864051, type: 3}
+    path: Chips
+  - item: {fileID: 1371608042497202, guid: 1d0e8ad20d1af10409334816afe9b5c4, type: 3}
+    path: Effects
+  - item: {fileID: 5355972596890922405, guid: 7497a7da8909d6a4595c8dffe0dbcc4b, type: 3}
+    path: SlotRenderers
+  - item: {fileID: 6602718932977382983, guid: 2336029d9c2df9a40bf3192ce32cfb9e, type: 3}
+    path: Space
+  - item: {fileID: 6517573870537895141, guid: 274008acea9a36641b5c7a8454a6f8c1, type: 3}
+    path: Characters
+  - item: {fileID: 8215174447745378861, guid: 4686b24bf9387ac44b88136892b302ac, type: 3}
+    path: Store
+  - item: {fileID: 8215174447745378861, guid: ba52596f7912a5345ab0874b75061e97, type: 3}
+    path: Store
+  - item: {fileID: 8215174447745378861, guid: 957c1e41cce18db4dac0fde153bc38d3, type: 3}
+    path: Store
+  - item: {fileID: 8215174447745378861, guid: f77d75133ac71264f83d5de780d959bb, type: 3}
+    path: Store
+  - item: {fileID: 1889180080331461342, guid: 34037f5971611914e82a11af7c98492f, type: 3}
+    path: Chips
+  - item: {fileID: 1466474303886253109, guid: 598035e925d2a8747b58975ad7894a19, type: 3}
+    path: Effects
+  - item: {fileID: 4057974621534100054, guid: e91b16729d453b94e81da5e436d410ef, type: 3}
+    path: Chips
+  - item: {fileID: 4241150698167586460, guid: 4c7b11ef3a494cb4bbd176c1060aa2d1, type: 3}
+    path: Effects
+  - item: {fileID: 21300000, guid: 59f42ffbe779d3e40adac4e216e0d21a, type: 3}
+    path: Sprites
+  - item: {fileID: 21300000, guid: 4a3c4ea7de5652f4cae38bc7c3923518, type: 3}
+    path: Store
+  - item: {fileID: 21300000, guid: 8fb62e6397742f146a688bd40a53fa4c, type: 3}
+    path: Store
+  - item: {fileID: 5810882994304936898, guid: 2b6c801a1d54afb4e89a8f4a48c9e33b, type: 3}
+    path: Chips
+  - item: {fileID: 241805935278887509, guid: 3ee04554de91c2546a61fbd9d15f1bf9, type: 3}
+    path: Chips
+  - item: {fileID: 1889180080331461342, guid: 960cca23d73424a41913cdf32d90ce85, type: 3}
+    path: Chips

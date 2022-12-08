@@ -1,0 +1,19 @@
+{
+    "name": "com.yurowm.integrations.debuganalytics.Editor",
+    "references": [
+        "GUID:9f903796c5a4cc349bc3d614722bdfaa",
+        "GUID:b67c650a00ca05c47a2318c5f92ef4fe",
+        "GUID:ca39f7756eeead640acef767b60bf251"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,65 @@
+ {
+	"type":"Yurowm.Serialization.Storage<Yurowm.Core.UserPath>",
+	"items":{
+		{
+			"type":"Yurowm.Core.UserPath",
+			"ID":"RegularAds",
+			"nodes":{
+				{
+					"type":"Yurowm.Core.UserPath+AppEvent",
+					"ID":"0",
+					"position":"200x100",
+					"events":"2"
+				},
+				{
+					"type":"Yurowm.Core.AdPreloadNode",
+					"ID":"1",
+					"position":"200x300"
+				},
+				{
+					"type":"Yurowm.UI.WaitPageNode",
+					"ID":"2",
+					"position":"200x380",
+					"pages":{
+						"Loading"
+					}
+				},
+				{
+					"type":"Yurowm.Core.WaitNode",
+					"ID":"3",
+					"position":"200x200",
+					"orientation":"4",
+					"seconds":"90"
+				},
+				{
+					"type":"Yurowm.Core.AdShowNode",
+					"ID":"4",
+					"position":"-80x400",
+					"orientation":"2"
+				},
+				{
+					"type":"Yurowm.Store.HasAccessNode",
+					"ID":"5",
+					"position":"420x440",
+					"orientation":"3",
+					"accessKey":"NoAds"
+				},
+				{
+					"type":"Yurowm.Nodes.IfNode",
+					"ID":"6",
+					"position":"200x500"
+				}
+			},
+			"connections":{
+				"(1, 1)-(2, 0)",
+				"(4, 2)-(3, 0)",
+				"(4, 3)-(1, 0)",
+				"(3, 1)-(1, 0)",
+				"(0, 1)-(3, 0)",
+				"(2, 1)-(6, 0)",
+				"(5, 1)-(6, 1)",
+				"(6, 3)-(4, 0)"
+			}
+		}
+	}
+}

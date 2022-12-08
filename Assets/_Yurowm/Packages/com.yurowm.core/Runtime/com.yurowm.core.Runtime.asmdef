@@ -1,0 +1,19 @@
+{
+    "name": "com.yurowm.core.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2406767949146dc4ab564c18315e6b1a",
+        "GUID:295e9d46386fbc94a8fcd739cb642660",
+        "GUID:a037b9f808b8c43ae91c527caf71d031",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
