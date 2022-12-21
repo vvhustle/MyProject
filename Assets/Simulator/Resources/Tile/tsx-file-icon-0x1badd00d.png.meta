@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 456cd7fe3f53df64da488af63fed1de2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5607175467734605909
+    second: tsx-file-icon-0x1badd00d_0
+  - first:
+      213: 1016420134472939945
+    second: tsx-file-icon-0x1badd00d_1
+  - first:
+      213: 1974932717105899244
+    second: tsx-file-icon-0x1badd00d_2
+  - first:
+      213: 5664581474099570348
+    second: tsx-file-icon-0x1badd00d_3
+  - first:
+      213: 8769510748189267414
+    second: tsx-file-icon-0x1badd00d_4
+  - first:
+      213: 8101631764029033275
+    second: tsx-file-icon-0x1badd00d_5
+  - first:
+      213: 4628165484806569788
+    second: tsx-file-icon-0x1badd00d_6
+  - first:
+      213: 6056459375432675462
+    second: tsx-file-icon-0x1badd00d_7
+  - first:
+      213: 768392084684132767
+    second: tsx-file-icon-0x1badd00d_8
+  - first:
+      213: -5141126052353848918
+    second: tsx-file-icon-0x1badd00d_9
+  - first:
+      213: -4274782448306342023
+    second: tsx-file-icon-0x1badd00d_10
+  - first:
+      213: 6484069419512984827
+    second: tsx-file-icon-0x1badd00d_11
+  - first:
+      213: -5640625918705328448
+    second: tsx-file-icon-0x1badd00d_12
+  - first:
+      213: 7076060810531824428
+    second: tsx-file-icon-0x1badd00d_13
+  - first:
+      213: 5378014398328007977
+    second: tsx-file-icon-0x1badd00d_14
+  - first:
+      213: 7266614304581136664
+    second: tsx-file-icon-0x1badd00d_15
+  - first:
+      213: -6372537688901741145
+    second: tsx-file-icon-0x1badd00d_16
+  - first:
+      213: 5997824184212575399
+    second: tsx-file-icon-0x1badd00d_17
+  - first:
+      213: 4718732339141776228
+    second: tsx-file-icon-0x1badd00d_18
+  - first:
+      213: -2550063040050858907
+    second: tsx-file-icon-0x1badd00d_19
+  - first:
+      213: -8560935488598045406
+    second: tsx-file-icon-0x1badd00d_20
+  - first:
+      213: 6366991939582840623
+    second: tsx-file-icon-0x1badd00d_21
+  - first:
+      213: -743991293879021662
+    second: tsx-file-icon-0x1badd00d_22
+  - first:
+      213: -3831362244129326510
+    second: tsx-file-icon-0x1badd00d_23
+  - first:
+      213: -7271884307189524525
+    second: tsx-file-icon-0x1badd00d_24
+  - first:
+      213: -2406403409201628127
+    second: tsx-file-icon-0x1badd00d_25
+  - first:
+      213: -1120451164695263588
+    second: tsx-file-icon-0x1badd00d_26
+  - first:
+      213: -4310581031890316728
+    second: tsx-file-icon-0x1badd00d_27
+  - first:
+      213: -8720482419433964903
+    second: tsx-file-icon-0x1badd00d_28
+  - first:
+      213: 5110127895875590802
+    second: tsx-file-icon-0x1badd00d_29
+  - first:
+      213: 8105576503117384940
+    second: tsx-file-icon-0x1badd00d_30
+  - first:
+      213: -7735638435189989916
+    second: tsx-file-icon-0x1badd00d_31
+  - first:
+      213: -6585539119381844486
+    second: tsx-file-icon-0x1badd00d_32
+  - first:
+      213: 7605684342751993460
+    second: tsx-file-icon-0x1badd00d_33
+  - first:
+      213: -7570557568266553129
+    second: tsx-file-icon-0x1badd00d_34
+  - first:
+      213: 2135450864562819110
+    second: tsx-file-icon-0x1badd00d_35
+  - first:
+      213: 4834926488305626237
+    second: tsx-file-icon-0x1badd00d_36
+  - first:
+      213: 3506227864944998248
+    second: tsx-file-icon-0x1badd00d_37
+  - first:
+      213: -6603114966785078280
+    second: tsx-file-icon-0x1badd00d_38
+  - first:
+      213: -2151201889553159150
+    second: tsx-file-icon-0x1badd00d_39
+  - first:
+      213: 2104212840322411071
+    second: tsx-file-icon-0x1badd00d_40
+  - first:
+      213: -7066153372670445204
+    second: tsx-file-icon-0x1badd00d_41
+  - first:
+      213: 5077039843570938796
+    second: tsx-file-icon-0x1badd00d_42
+  - first:
+      213: -4623237757517340299
+    second: tsx-file-icon-0x1badd00d_43
+  - first:
+      213: -1236513530851533020
+    second: tsx-file-icon-0x1badd00d_44
+  - first:
+      213: -3167716747032580877
+    second: tsx-file-icon-0x1badd00d_45
+  - first:
+      213: -8071901098866643922
+    second: tsx-file-icon-0x1badd00d_46
+  - first:
+      213: -8530741737844039497
+    second: tsx-file-icon-0x1badd00d_47
+  - first:
+      213: -3066300142072236947
+    second: tsx-file-icon-0x1badd00d_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502b9b3160b0dd40800000000000000
+      internalID: 5607175467734605909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a970d12abc0b1e00800000000000000
+      internalID: 1016420134472939945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e462b7de586b10800000000000000
+      internalID: 1974932717105899244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a6f4a6d2ac9e40800000000000000
+      internalID: 5664581474099570348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59ac7009f83b970800000000000000
+      internalID: 8769510748189267414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc8f34a27ce6070800000000000000
+      internalID: 8101631764029033275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7e93ccfb8a3040800000000000000
+      internalID: 4628165484806569788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680bf35a6bddc0450800000000000000
+      internalID: 6056459375432675462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsx-file-icon-0x1badd00d_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d1d7a780e9aa00800000000000000
+      internalID: 768392084684132767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9a5a10ff621e704d9316ae7369faef1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tsx-file-icon-0x1badd00d_3: 5664581474099570348
+      tsx-file-icon-0x1badd00d_7: 6056459375432675462
+      tsx-file-icon-0x1badd00d_6: 4628165484806569788
+      tsx-file-icon-0x1badd00d_4: 8769510748189267414
+      tsx-file-icon-0x1badd00d_0: 5607175467734605909
+      tsx-file-icon-0x1badd00d_5: 8101631764029033275
+      tsx-file-icon-0x1badd00d_2: 1974932717105899244
+      tsx-file-icon-0x1badd00d_1: 1016420134472939945
+      tsx-file-icon-0x1badd00d_8: 768392084684132767
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -73,8 +73,6 @@ namespace Yurowm.Utilities {
                     return Platform.Lumin;
                 case UnityEditor.BuildTarget.Stadia:
                     return Platform.Stadia;
-                case UnityEditor.BuildTarget.LinuxHeadlessSimulation:
-                    return Platform.CloudRendering;
             }
             
             #endif
